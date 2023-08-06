@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjryan02
 - 👀 I’m interested in ... Computers
-- 🌱 I’m currently learning ... C/C++
-- 💞️ I’m looking to collaborate on ... Anythin
+- 🌱 I’m currently learning ... C/C++/Js/HTML/CSS/Python
+- 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... jfryan02@gmail.com
 
 <!---
